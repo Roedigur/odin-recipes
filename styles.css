@@ -1,0 +1,14 @@
+.text {
+    font-family: 'Times New Roman', 'Georgia', 'Garamonda';
+    text-align: center;
+}
+
+.mainheader {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
